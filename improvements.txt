@@ -1,0 +1,8 @@
+- fix labeling tooltips of dots
+- move the key away from near circles
+
+
+- TRAVIS CI BUILD FAIL
+- adjust links to "/cedar"/examples & ''/API
+  - check on this
+- change vega version
